@@ -17,7 +17,7 @@ file structure:
       
 ├── client  
 ├── ├── src  
-├── ├── ├── routes - each page of the application 
+├── ├── ├── routes - each page of the application  
 ├── ├── ├── lib   
 ├── ├── ├── ├── components  
 ├── ├── ├── ├── stores - svelte stores to handle application state (some state is also handled with props in component tree)  
